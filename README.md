@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/vishalprajapat2006/vishal/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vishalprajapat2006/vishal/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vishalprajapat2006/vishal/tree/master/0595-big-countries) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/vishalprajapat2006/SQL_QUESTION/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/vishalprajapat2006/SQL_QUESTION/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/vishalprajapat2006/vishal/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/vishalprajapat2006/SQL_QUESTION/tree/master/0626-exchange-seats) |
